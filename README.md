@@ -26,11 +26,11 @@ The following additional features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/NeZhd.gif' title='Video Walkthrough' width='320' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/dHMbZeB.gif' title='Video Walkthrough' width='320' alt='Video Walkthrough' />
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+We had major issues with setting up the emulator
 
 ## License
 
